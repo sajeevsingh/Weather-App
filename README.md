@@ -14,7 +14,7 @@ This project is a voice-based weather application built with Flask, SpeechRecogn
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/voice-based-weather-app.git
+    git clone https://github.com/sajeevsingh/Weather-App.git
     ```
 
 2. Install dependencies:
@@ -49,4 +49,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Create a new Pull Request
 
-## License
+
